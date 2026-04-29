@@ -132,4 +132,4 @@ if st.button("🚀 Analyze Review", type="primary", use_container_width=True) an
 
 # Footer
 st.markdown("---")
-st.markdown("Made by Team ReviewGuard | [Full Stack Version](https://github.com/yourusername/fake-review-detector) | Models trained on 8000+ reviews")
+st.markdown("Made by Team ReviewGuard | [Full Stack Version](https://github.com/bhumi-turakhia/fake-review-detector) | Models trained on 8000+ reviews")
